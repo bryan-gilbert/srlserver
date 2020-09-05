@@ -1,2 +1,2 @@
 # srlserver
-Server for sllearn (spaced repitition learner)
+Server for sllearn (spaced reptition learner)
